@@ -1,0 +1,9 @@
+.article,
+.user {
+  padding: 5px 0px;
+}
+
+.article-wrapper,
+.user-wrapper {
+  padding: 50px;
+}
